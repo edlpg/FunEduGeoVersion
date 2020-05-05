@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<pais>
+    <nombre>NEPAL</nombre>
+    <pregunta>
+        <question>Which is Nepal's Official language?</question>
+        <respuesta1>Hindi</respuesta1>
+        <respuesta2>Nepalese</respuesta2>
+        <respuesta3>Arabic</respuesta3>
+        <respuesta4>Tibetan</respuesta4>
+        <correcta>2</correcta>
+     </pregunta>
+     <pregunta>
+        <question>Where is Nepal Located?</question>
+        <respuesta1>North America</respuesta1>
+        <respuesta2>East Asia</respuesta2>
+        <respuesta3>Middle East</respuesta3>
+        <respuesta4>South Asia</respuesta4>
+        <correcta>4</correcta>
+     </pregunta>
+     <pregunta>
+        <question>Which of the following countries share a border with Nepal?</question>
+        <respuesta1>Japan</respuesta1>
+        <respuesta2>India</respuesta2>
+        <respuesta3>Bangladesh</respuesta3>
+        <respuesta4>Pakistan</respuesta4>
+        <correcta>2</correcta>
+     </pregunta>
+     <pregunta>
+        <question>Which of the following countries share a border with Nepal?</question>
+        <respuesta1>Kyrgyzstan</respuesta1>
+        <respuesta2>USA</respuesta2>
+        <respuesta3>Burkina Fasso</respuesta3>
+        <respuesta4>China</respuesta4>
+        <correcta>4</correcta>
+     </pregunta>
+    <pregunta>
+        <question>Which is Nepal's Capital city?</question>
+        <respuesta1>Nepalistan</respuesta1>
+        <respuesta2>Chicago</respuesta2>
+        <respuesta3>Kathmandu</respuesta3>
+        <respuesta4>New dehli</respuesta4>
+        <correcta>3</correcta>
+     </pregunta>
+    <pregunta>
+        <question>Which is one of Nepal's main religions?</question>
+        <respuesta1>Islam</respuesta1>
+        <respuesta2>Christianism</respuesta2>
+        <respuesta3>Shintoism</respuesta3>
+        <respuesta4>Hinduism</respuesta4>
+        <correcta>4</correcta>
+     </pregunta>
+    <pregunta>
+        <question>Why is Nepal famous for?</question>
+        <respuesta1>Forbiden City</respuesta1>
+        <respuesta2>Taj Mahal</respuesta2>
+        <respuesta3>Mt. Everest</respuesta3>
+        <respuesta4>Baku Old City</respuesta4>
+        <correcta>3</correcta>
+     </pregunta>
+    <pregunta>
+        <question>Why is Nepal famous for?</question>
+        <respuesta1>Vatican City</respuesta1>
+        <respuesta2>Budhism</respuesta2>
+        <respuesta3>Bagan</respuesta3>
+        <respuesta4>Eiffel Tower</respuesta4>
+        <correcta>2</correcta>
+     </pregunta>
+ </pais>
